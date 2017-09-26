@@ -7,5 +7,7 @@ function histInter = distanceToSet(wordHist, histograms)
 % 	histInter: histogram intersection similarity between wordHist and each training sample as a 1 × T vector
 
 	% TODO Implement your code here
-	
+    T = size(histograms, 2);
+    wordHist = repmat(wordHist, 1, T);
+    histInter = sum(bsxfun(@min, wordHist, histograms));
 end

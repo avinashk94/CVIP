@@ -7,6 +7,8 @@ function [h] = getImageFeatures(wordMap, dictionarySize)
 %   h: vector of histogram of visual words of size dictionarySize (l1-normalized, ie. sum(h(:)) == 1)
 
 	% TODO Implement your code here
-	
+    wordMap = reshape(wordMap,1,[]);
+    h = hist(wordMap, dictionarySize);
+    h = h./sum(h);
 	assert(numel(h) == dictionarySize);
 end
