@@ -10,7 +10,7 @@ function checkA1Submission(andrewid)
 
     ZIPFILE = strcat(andrewid, '.zip');
     ROOT = strcat(TMPDIR, '/');
-    MATLAB = strcat(andrewid, '/code');
+    MATLAB = strcat(andrewid, '\code');
     CUSTOM = strcat(andrewid, '/custom');
 
     if exist(ZIPFILE, 'file') == 2
@@ -43,7 +43,7 @@ function checkA1Submission(andrewid)
         }';
 
     for i = matlabfiles
-        mfile = strcat(ROOT, '/', MATLAB, '/', i{1});
+        mfile = strcat(ROOT, MATLAB, '/', i{1});
         if exist(mfile, 'file') ~= 2
             fprintf('%s not found.\n', mfile)
             errors = errors+1;
