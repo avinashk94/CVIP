@@ -18,8 +18,8 @@ function [wordMap] = getVisualWords(img, filterBank, dictionary)
     filterRes = extractFilterResponses(img,filterBank);
     filterRes = reshape(filterRes, [], size(filterRes, 3));
     
-    eDistance = pdist2(filterRes, dictionary', 'euclidean');
-    [~, wordMap] = min(eDistance, [], 2);
+    dis = pdist2(filterRes, dictionary', 'euclidean');
+    [~, wordMap] = min(dis, [], 2);
     
     wordMap = reshape(wordMap, h, w);
 end

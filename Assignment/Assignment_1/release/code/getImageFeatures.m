@@ -9,6 +9,6 @@ function [h] = getImageFeatures(wordMap, dictionarySize)
 	% TODO Implement your code here
     wordMap = reshape(wordMap,1,[]);
     h = hist(wordMap, dictionarySize);
-    h = h./sum(h);
+    h = h'./sum(h);
 	assert(numel(h) == dictionarySize);
 end
