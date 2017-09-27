@@ -16,7 +16,7 @@ function [histo] = getImageFeaturesSPM(layerNum, wordMap, dictionarySize)
     
     for l = L: -1: 0
         split = 2^l;
-        cellSize = floor(size(wordMap) / numOfCells);
+        cellSize = floor(size(wordMap) / split);
         
         if l == 0
             weight = 2^(-L);
