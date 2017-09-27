@@ -1,0 +1,4 @@
+%computeDictionary
+%batchToVisualWords(4)
+buildRecognitionSystem
+evaluateRecognitionSystem(4)
