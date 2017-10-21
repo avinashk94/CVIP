@@ -15,7 +15,7 @@ if nargin < 6
    ln_wid = 1.5;
 end
 
-imshow(I); hold on;
+imshow(I,'InitialMagnification',250); hold on;
 
 theta = 0:0.1:(2*pi+0.1);
 cx1 = cx(:,ones(size(theta)));
