@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  23 OCT 2017 21:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  11 NOV 2017 22:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**50248877_hw2.tex
-(./50248877_hw2.tex
+**50248877_hw3.tex
+(./50248877_hw3.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -1096,8 +1096,8 @@ Package: listings 2015/06/04 1.6 (Carsten Heinz)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-(./50248877_hw2.aux)
-\openout1 = `50248877_hw2.aux'.
+(./50248877_hw3.aux)
+\openout1 = `50248877_hw3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
 LaTeX Font Info:    ... okay on input line 98.
@@ -1204,111 +1204,155 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count152
-<hw2/code/1.jpg, id=4, 1515.6625pt x 1066.98625pt>
-File: hw2/code/1.jpg Graphic file (type jpg)
- <use hw2/code/1.jpg>
-Package pdftex.def Info: hw2/code/1.jpg used on input line 119.
-(pdftex.def)             Requested size: 418.25368pt x 294.43968pt.
+<hw3/code/1.jpg, id=4, 2272.49pt x 815.045pt>
+File: hw3/code/1.jpg Graphic file (type jpg)
+ <use hw3/code/1.jpg>
+Package pdftex.def Info: hw3/code/1.jpg used on input line 114.
+(pdftex.def)             Requested size: 418.25368pt x 150.00989pt.
 
-<hw2/code/2.jpg, id=5, 1899.095pt x 1390.19376pt>
-File: hw2/code/2.jpg Graphic file (type jpg)
- <use hw2/code/2.jpg>
-Package pdftex.def Info: hw2/code/2.jpg used on input line 120.
-(pdftex.def)             Requested size: 418.25368pt x 306.16176pt.
+<hw3/code/2.jpg, id=5, 2272.49pt x 815.045pt>
+File: hw3/code/2.jpg Graphic file (type jpg)
+ <use hw3/code/2.jpg>
+Package pdftex.def Info: hw3/code/2.jpg used on input line 115.
+(pdftex.def)             Requested size: 418.25368pt x 150.00989pt.
 
-<hw2/code/3.jpg, id=6, 1532.72626pt x 1011.78pt>
-File: hw2/code/3.jpg Graphic file (type jpg)
- <use hw2/code/3.jpg>
-Package pdftex.def Info: hw2/code/3.jpg used on input line 121.
-(pdftex.def)             Requested size: 418.25368pt x 276.08669pt.
+<hw3/code/3.jpg, id=6, 2272.49pt x 815.045pt>
+File: hw3/code/3.jpg Graphic file (type jpg)
+ <use hw3/code/3.jpg>
+Package pdftex.def Info: hw3/code/3.jpg used on input line 116.
+(pdftex.def)             Requested size: 418.25368pt x 150.00989pt.
 
-<hw2/code/4.jpg, id=7, 1083.04625pt x 1071.00125pt>
-File: hw2/code/4.jpg Graphic file (type jpg)
- <use hw2/code/4.jpg>
-Package pdftex.def Info: hw2/code/4.jpg used on input line 122.
-(pdftex.def)             Requested size: 324.91638pt x 321.30286pt.
+<hw3/code/4.jpg, id=7, 1419.3025pt x 955.57pt>
+File: hw3/code/4.jpg Graphic file (type jpg)
+ <use hw3/code/4.jpg>
+Package pdftex.def Info: hw3/code/4.jpg used on input line 117.
+(pdftex.def)             Requested size: 418.25368pt x 281.59909pt.
 
-<hw2/code/5.jpg, id=8, 2902.845pt x 1641.13126pt>
-File: hw2/code/5.jpg Graphic file (type jpg)
- <use hw2/code/5.jpg>
-Package pdftex.def Info: hw2/code/5.jpg used on input line 123.
-(pdftex.def)             Requested size: 418.25368pt x 236.44292pt.
-
-<hw2/code/6.jpg, id=9, 2233.34375pt x 1264.725pt>
-File: hw2/code/6.jpg Graphic file (type jpg)
- <use hw2/code/6.jpg>
-Package pdftex.def Info: hw2/code/6.jpg used on input line 124.
-(pdftex.def)             Requested size: 418.25368pt x 236.84589pt.
-
-<hw2/code/7.jpg, id=10, 3090.54625pt x 1905.1175pt>
-File: hw2/code/7.jpg Graphic file (type jpg)
- <use hw2/code/7.jpg>
-Package pdftex.def Info: hw2/code/7.jpg used on input line 125.
-(pdftex.def)             Requested size: 418.25368pt x 257.8193pt.
-
-<hw2/code/8.jpg, id=11, 1296.845pt x 1576.89125pt>
-File: hw2/code/8.jpg Graphic file (type jpg)
- <use hw2/code/8.jpg>
-Package pdftex.def Info: hw2/code/8.jpg used on input line 126.
-(pdftex.def)             Requested size: 418.25368pt x 508.56158pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--127
+Underfull \hbox (badness 10000) in paragraph at lines 113--118
 
  []
 
 [1
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./hw2/c
-ode/1.jpg>] [2 <./hw2/code/2.jpg> <./hw2/code/3.jpg>] [3 <./hw2/code/4.jpg> <./
-hw2/code/5.jpg>] [4 <./hw2/code/6.jpg> <./hw2/code/7.jpg>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 132.
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./hw3/c
+ode/1.jpg> <./hw3/code/2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 132.
+ []
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5 <./hw2/code/8.jpg>]
-LaTeX Font Info:    Try loading font information for TS1+qhv on input line 150.
+<hw3/code/5.jpg, id=16, 1875.005pt x 975.645pt>
+File: hw3/code/5.jpg Graphic file (type jpg)
+ <use hw3/code/5.jpg>
+Package pdftex.def Info: hw3/code/5.jpg used on input line 122.
+(pdftex.def)             Requested size: 418.25368pt x 217.63487pt.
 
- (/usr/local/texlive/2017/texmf-dist/tex/latex/tex-gyre/ts1qhv.fd
-File: ts1qhv.fd 2009/09/25 v1.2 font definition file for TS1/qhv
-)
-File: hw2/code/1.jpg Graphic file (type jpg)
+<hw3/code/6.jpg, id=17, 2272.49pt x 815.045pt>
+File: hw3/code/6.jpg Graphic file (type jpg)
+ <use hw3/code/6.jpg>
+Package pdftex.def Info: hw3/code/6.jpg used on input line 123.
+(pdftex.def)             Requested size: 418.25368pt x 150.00989pt.
 
-<use hw2/code/1.jpg>
-Package pdftex.def Info: hw2/code/1.jpg used on input line 169.
-(pdftex.def)             Requested size: 378.9147pt x 266.74591pt.
- <hw2/code/1_1.jpg, id=32, 1515.6625pt x 1066.98625pt>
-File: hw2/code/1_1.jpg Graphic file (type jpg)
+<hw3/code/7.jpg, id=18, 2272.49pt x 815.045pt>
+File: hw3/code/7.jpg Graphic file (type jpg)
+ <use hw3/code/7.jpg>
+Package pdftex.def Info: hw3/code/7.jpg used on input line 124.
+(pdftex.def)             Requested size: 418.25368pt x 150.00989pt.
 
-<use hw2/code/1_1.jpg>
-Package pdftex.def Info: hw2/code/1_1.jpg used on input line 170.
-(pdftex.def)             Requested size: 378.9147pt x 266.74591pt.
- [6] [7 <./hw2/code/1_1.jpg>] [8] (./50248877_hw2.aux) ) 
+<hw3/data/part2/1.jpg, id=19, 987.69pt x 419.5675pt>
+File: hw3/data/part2/1.jpg Graphic file (type jpg)
+
+<use hw3/data/part2/1.jpg>
+Package pdftex.def Info: hw3/data/part2/1.jpg used on input line 125.
+(pdftex.def)             Requested size: 418.25368pt x 177.67041pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
+
+ []
+
+[2 <./hw3/code/3.jpg> <./hw3/code/4.jpg>] [3 <./hw3/code/5.jpg> <./hw3/code/6.j
+pg> <./hw3/code/7.jpg>] <hw3/data/part2/2.jpg, id=26, 602.25pt x 419.5675pt>
+File: hw3/data/part2/2.jpg Graphic file (type jpg)
+
+<use hw3/data/part2/2.jpg>
+Package pdftex.def Info: hw3/data/part2/2.jpg used on input line 128.
+(pdftex.def)             Requested size: 418.25368pt x 291.3969pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+<hw3/data/part2/2_2.jpg, id=27, 602.25pt x 419.5675pt>
+File: hw3/data/part2/2_2.jpg Graphic file (type jpg)
+
+<use hw3/data/part2/2_2.jpg>
+Package pdftex.def Info: hw3/data/part2/2_2.jpg used on input line 130.
+(pdftex.def)             Requested size: 418.25368pt x 291.3969pt.
+
+<hw3/data/part2/4_1.jpg, id=28, 987.69pt x 419.5675pt>
+File: hw3/data/part2/4_1.jpg Graphic file (type jpg)
+
+<use hw3/data/part2/4_1.jpg>
+Package pdftex.def Info: hw3/data/part2/4_1.jpg used on input line 132.
+(pdftex.def)             Requested size: 418.25368pt x 177.67041pt.
+
+<hw3/data/part2/4_2.jpg, id=29, 987.69pt x 419.5675pt>
+File: hw3/data/part2/4_2.jpg Graphic file (type jpg)
+
+<use hw3/data/part2/4_2.jpg>
+Package pdftex.def Info: hw3/data/part2/4_2.jpg used on input line 133.
+(pdftex.def)             Requested size: 418.25368pt x 177.67041pt.
+
+<hw3/data/part2/4_3.jpg, id=30, 987.69pt x 419.5675pt>
+File: hw3/data/part2/4_3.jpg Graphic file (type jpg)
+
+<use hw3/data/part2/4_3.jpg>
+Package pdftex.def Info: hw3/data/part2/4_3.jpg used on input line 134.
+(pdftex.def)             Requested size: 418.25368pt x 177.67041pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 130--135
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--135
+
+ []
+
+[4 <./hw3/data/part2/1.jpg> <./hw3/data/part2/2.jpg>] [5 <./hw3/data/part2/2_2.
+jpg> <./hw3/data/part2/4_1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+<hw3/data/part2/5.jpg, id=37, 1124.2pt x 843.15pt>
+File: hw3/data/part2/5.jpg Graphic file (type jpg)
+ <use hw3/data/part2/5.jpg>
+Package pdftex.def Info: hw3/data/part2/5.jpg used on input line 140.
+(pdftex.def)             Requested size: 418.25368pt x 313.68457pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+[6 <./hw3/data/part2/4_2.jpg> <./hw3/data/part2/4_3.jpg>] [7 <./hw3/data/part2/
+5.jpg>] (./50248877_hw3.aux) ) 
 Here is how much of TeX's memory you used:
- 16916 strings out of 492995
- 311058 string characters out of 6132704
- 375970 words of memory out of 5000000
- 20114 multiletter control sequences out of 15000+600000
- 24827 words of font info for 39 fonts, out of 8000000 for 9000
+ 16868 strings out of 492995
+ 310574 string characters out of 6132704
+ 370970 words of memory out of 5000000
+ 20085 multiletter control sequences out of 15000+600000
+ 20113 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,54p,393b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/201
-7/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2017/texmf-
-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2017/texmf-dist/font
-s/enc/dvips/tex-gyre/q-ec-sc.enc}</usr/local/texlive/2017/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pub
-lic/tex-gyre/qhvb.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/te
-x-gyre/qhvr.pfb>
-Output written on 50248877_hw2.pdf (8 pages, 2910398 bytes).
+ 55i,11n,54p,393b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvi
+ps/tex-gyre/q-ec.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gy
+re/q-ec-sc.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/
+qhvb.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qhvr.p
+fb>
+Output written on 50248877_hw3.pdf (7 pages, 1839090 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
