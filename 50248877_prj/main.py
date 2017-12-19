@@ -1,4 +1,4 @@
-get_ipython().run_line_magic('matplotlib', 'inline')
+%matplotlib inline
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
@@ -99,7 +99,7 @@ with tf.name_scope("compute_sum_of_squares"):
     counter = tf.constant(1)
     sum_of_squares = tf.constant(0)
     result = tf.while_loop(condition, loop_body, [sum_of_squares, counter])
-    
+
 
 with tf.Session() as sess:
     print(sess.run(result))
@@ -304,7 +304,7 @@ for index in range(n_samples):
     plt.title("Predicted:" + str(y_pred_value[index]))
     plt.imshow(reconstructions[index], cmap="binary")
     plt.axis("off")
-    
+
 plt.show()
 
 def tweak_pose_parameters(output_vectors, min=-0.5, max=0.5, n_steps=11):
